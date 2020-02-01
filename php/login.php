@@ -110,7 +110,7 @@ else{
             <p class="hata"></p>
             <button type="submit" name="giris" style="float: left">Giriş</button>
             <p style="float: left; margin-left: 2%">Hesabınız yok mu? Oluşturun</p>
-            <button type="submit" name="kayit" style="margin-left: -35%">Ekle</button>
+            <button type="submit" name="kayit" style="margin-left: -30%">Ekle</button>
         </form>
         
         <br>

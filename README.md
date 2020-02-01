@@ -10,7 +10,7 @@ Bilgisayarınızda XAMPP ya da WAMPP programlarından birisi kurulu ve MySQL ile
 ## Çalıştırma
 İndirdiğiniz gallery_project_on_web projesini C:\xampp\htdocs\ klasörünün içerisine taşıyın. Şimdi tek yapmanız gereken tarayıcınızda http://localhost/gallery_project_on_web/php adresine gitmek olacak. Siz projeyi çalıştırdığınız anda veri tabanı otomatik olarak oluşturulacaktır.
 
-Giriş Yapın sekmesinden hep giriş yapabilirsiniz hem de kaydolabilirsiniz:
+Giriş Yapın sekmesinden hem giriş yapabilirsiniz hem de kaydolabilirsiniz:
 
 ![alt text](https://github.com/acbr5/gallery_project_on_web/blob/master/images/log_in.JPG)
 

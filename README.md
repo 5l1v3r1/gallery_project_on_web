@@ -10,7 +10,7 @@ Bilgisayarınızda XAMPP ya da WAMPP programlarından birisi kurulu ve MySQL ile
 
 Giriş Yapın sekmesinden hep giriş yapabilirsiniz hem de kaydolabilirsiniz:
 
-![alt text](https://github.com/acbr5/gallery_project_on_web/blob/master/images/login.JPG)
+![alt text](https://github.com/acbr5/gallery_project_on_web/blob/master/images/log_in.JPG)
 
 Kaydolduktan sonra otomatik olarak Kategoriler sekmesine yönlendirileceksiniz. Kategori ekleyebilir ve mevcut kategoriler üzerinde işlem yapabilirsiniz.
 
@@ -18,7 +18,7 @@ Kaydolduktan sonra otomatik olarak Kategoriler sekmesine yönlendirileceksiniz. 
 
 Ana Sayfa'ya geçiş yaparak fotoğraf yükleyebilirsiniz:
 
-![alt text](https://github.com/acbr5/gallery_project_on_web/blob/master/images/index.JPG)
+![alt text](https://github.com/acbr5/gallery_project_on_web/blob/master/images/indexx.JPG)
 
 Yüklediğiniz fotoğrafları sayfanın aşağısında kategorilere göre ayrılmış olarak görebilirsiniz. Butona tıklayın. Fotoğrafın üzerine mouse'unuzu getirdiğinizde sağ tarafta açıklama çıkacaktır:
 

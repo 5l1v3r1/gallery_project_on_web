@@ -19,7 +19,7 @@ class users extends VeriTabani{
         return $this->conn;
     }
     public function ekle(){
-        try{
+         try{
             $username = $_POST["username"];
             //başka kullanıcı var mı?
             $varmi = 'SELECT * FROM users WHERE username="'.$username.'"';
@@ -37,6 +37,17 @@ class users extends VeriTabani{
                     $query->bindParam(':username',$username,PDO::PARAM_STR);
                     $query->bindParam(':password',$password,PDO::PARAM_STR);
                     $query -> execute();
+
+                    $sql2 = 'SELECT user_id FROM users WHERE username="'.$username.'"';
+                    $sorgu = $this->conn->prepare($sql2);
+                    $sorgu->execute();
+                    $kullanici_id = $sorgu->fetch(PDO::FETCH_COLUMN);
+
+                    $_SESSION['id'] =$kullanici_id;
+                    $_SESSION['username'] = $username;
+                    $_SESSION['password'] = $password;
+                    
+                    header("Location: categories.php");
                 }
                 else{
                     echo'<p class="hata">Kullanıcı adınızı ve parolanızı giriniz!</p>';

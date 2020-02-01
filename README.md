@@ -1,5 +1,7 @@
 # gallery_project_on_web
-PHP, MySQL, HTML, CSS ve JS kullanılarak web üzerinde oluşturulan bir galeri uygulamasıdır. Üye girişi, SESSION yönetimi, veri tabanı işlemleri, dosya ve klasör işlemleri bulunmaktadır. Kullanıcı adı ve parola ile kaydolabilir, kategoriler sekmesinde fotoğrafları kategorize etmek için eşsiz kategori adları girebilirsiniz. Ana sayfada fotoğraf yükleyebilir ve sayfanın aşağısında kategorilere göre ayrılmış fotoğraflarınızı görebilirsiniz. Fotoğrafın üzerine mouse ile geldiğinizde yan tarafta açılan Pop-up içerisinde fotoğrafa ait detayları görebilirsiniz.
+PHP, MySQL, HTML, CSS ve JS kullanılarak web üzerinde oluşturulan bir galeri uygulamasıdır. Üye girişi, SESSION yönetimi, veri tabanı işlemleri, dosya ve klasör işlemleri bulunmaktadır. Tüm proje içerisinde class yapısı kullanılmıştır. 
+
+Kullanıcı adı ve parola ile kaydolabilir, kategoriler sekmesinde fotoğrafları kategorize etmek için eşsiz kategori adları girebilirsiniz. Ana sayfada fotoğraf yükleyebilir ve sayfanın aşağısında kategorilere göre ayrılmış fotoğraflarınızı görebilirsiniz. Fotoğrafın üzerine mouse ile geldiğinizde yan tarafta açılan Pop-up içerisinde fotoğrafa ait detayları görebilirsiniz.
 Yüklenilen fotoğraflar xampp/htdocs/gallery_project_on_web/images/ dizini altında her üyenin userID'sine göre gruplandırılmış klasörlerin içerisinde bulunmaktadır.
 
 ## Gereklilikler

@@ -194,7 +194,7 @@ if(isset($_SESSION["username"]) && isset($_SESSION["password"]) && $_SESSION["id
                     }
                 }
                 else{
-                    echo'Henüz Dosya Bulunmamaktadır.';
+                    echo '<p style="margin-left: 5%">Henüz Dosya Bulunmamaktadır.</p>';
                 }
             }catch (Exception $e){
                 $this->hatalar[]='Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.';

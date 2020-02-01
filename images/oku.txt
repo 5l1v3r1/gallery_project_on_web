@@ -1,0 +1,1 @@
+Burada her kullanıcının ID'sine göre klasörler mevcuttur. Kullanıcı fotoğraf yüklediği anda otomatik oluşturulacaktır.

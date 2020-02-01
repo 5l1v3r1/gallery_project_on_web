@@ -14,7 +14,7 @@ Giriş Yapın sekmesinden hep giriş yapabilirsiniz hem de kaydolabilirsiniz:
 
 Kaydolduktan sonra otomatik olarak Kategoriler sekmesine yönlendirileceksiniz. Kategori ekleyebilir ve mevcut kategoriler üzerinde işlem yapabilirsiniz.
 
-![alt text](https://github.com/acbr5/gallery_project_on_web/blob/master/images/categories.png)
+![alt text](https://github.com/acbr5/gallery_project_on_web/blob/master/images/categories.JPG)
 
 Ana Sayfa'ya geçiş yaparak fotoğraf yükleyebilirsiniz:
 
